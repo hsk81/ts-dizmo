@@ -1,0 +1,5 @@
+{
+    "hideGenerator": true,
+    "listInvalidSymbolLinks": true,
+    "out": "docs"
+}
